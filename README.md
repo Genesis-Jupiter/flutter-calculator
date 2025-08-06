@@ -28,5 +28,5 @@ Supports basic arithmetic operations with a modern and responsive UI.
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flutter-calculator.git
+git clone https://github.com/Genesis-Jupiter/flutter-calculator.git
 cd flutter-calculator
